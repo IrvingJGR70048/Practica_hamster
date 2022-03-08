@@ -1,0 +1,87 @@
+body{
+    background-color: aqua;
+}
+
+.blue-box{
+    height: 400px;
+    width: 500px;
+    background-color: blue;
+    float: left;
+    
+}
+
+.red-box{
+    height: 400px;
+    width: 500px;
+    background-color: red;
+    float: left;
+    
+}
+
+p{
+    margin-top: 0px;
+    background-color: yellow;
+}
+
+img{
+    float: left;
+}
+
+.texto{
+    
+    background-color: yellow;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif, "new time roman", lato;
+}
+/*#caja1, #caja2, #caja2{
+    background-color:  yellow;
+    color: red;
+    border: blue solid;
+    width: 100px;
+    height: 50px;
+}
+#caja1{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#caja2{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#caja3{
+    width: 500px;
+    height: 300px;
+}
+
+
+/*body{
+    
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+   margin: 0px;
+   background-color: darkseagreen;
+}
+h1{
+    color: blueviolet;
+}
+
+main{
+    position: static;
+    top: 150px
+}
+
+article{
+    margin: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: blue;
+    color: white;
+}*/
